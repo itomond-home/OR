@@ -2,10 +2,10 @@
 
 ### 既にクローンしている場合
 #### 1. 最新の変更を取得
-'''
- cd OR
- git checkout main
- git pull origin main
+'''bash
+cd OR
+git checkout main
+git pull origin main
 '''
 
 #### 2. 新しいブランチの作成

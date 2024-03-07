@@ -3,10 +3,16 @@
 ### 既にクローンしている場合
 #### 1. 最新の変更を取得
 '''bash
-cd OR
-git checkout main
-git pull origin main
+cd OR  
+git checkout main  
+git pull origin main  
 '''
+
+```bash
+git clone https://github.com/itomond-home/OR.git
+cd OR
+git checkout -b new-feature
+```
 
 #### 2. 新しいブランチの作成
 '''
